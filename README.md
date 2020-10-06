@@ -1,0 +1,1 @@
+Simple node project to listen and log a given message
